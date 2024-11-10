@@ -9,10 +9,4 @@
 
 而我们考虑上述的四种博弈，主要的原因在于上述的博弈之间存在的不同的特点，因此需要不同的solution concept来求解不同的博弈。而针对不同博弈的solution concept的建立也是一个循序渐进的过程。
 
-## 完全信息静态博弈
-
-## 完全信息动态博弈
-
-## 不完全信息静态博弈
-
-## 不完全信息动态博弈
+This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
